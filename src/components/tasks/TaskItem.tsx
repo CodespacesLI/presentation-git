@@ -78,7 +78,7 @@ export const TaskItem = memo(
       <TaskContainer
         id={task.id}
         onContextMenu={onContextMenu}
-        backgroundColor={task.color}
+        backgroundColor="#333333"
         glow={enableGlow}
         done={task.done}
         blur={blur}
