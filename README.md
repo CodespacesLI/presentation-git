@@ -1,6 +1,21 @@
-<!-- <p align="center">
-<img src="https://raw.githubusercontent.com/maciekt07/TodoApp/main/public/logo192.png" width="128px" />
-</p> -->
+# Präsentation: Open Source Contribution & Git
+
+Dieses Repository dient als Ausgangspunkt für eine Präsentation und Übung zu Open Source Contribution mit Git und GitHub.  
+Im Fokus stehen folgende Themen:
+
+- Die Präsentation und begleitende Materialien befinden sich im Ordner [`presentation`](./presentation).
+- **Dieses Repo basiert auf einer Kopie von [maciekt07/TodoApp](https://github.com/maciekt07/TodoApp)**. Es wurde zu Übungszwecken übernommen und dient als Demo-Projekt.
+- Um den typischen Open-Source-Workflow zu veranschaulichen, wurde dieses Projekt anschließend mit einem privaten GitHub-Account geforkt und dort Änderungen durchgeführt (Contribution, Pull Request, etc.).
+- Zusätzlich wurde das Open-Source-Repo von [VSCode](https://github.com/microsoft/vscode) als Praxisbeispiel für große Projekte analysiert – u.a. mit Blick auf Einstieg, Commit- und PR-Regeln, Issue-Diskussionen und Projektorganisation. Aus Performancegründen konnte VSCode jedoch nicht selbst im DevContainer getestet werden.
+
+---
+
+## Herkunft des Codes
+
+Der hier gezeigte Code stammt ursprünglich aus dem öffentlichen Open-Source-Projekt [maciekt07/TodoApp](https://github.com/maciekt07/TodoApp).  
+Das Projekt wurde **kopiert** und dient ausschließlich zu Übungs- und Demonstrationszwecken in diesem Kontext.
+
+---
 
 # 📝React.js Todo App
 
